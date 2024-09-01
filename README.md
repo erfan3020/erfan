@@ -1,1 +1,1 @@
-# erfan
+vless://0b292edf-7e55-4048-9569-3c24152447f6@workerv6.erfanchoopani123.workers.dev:443?security=tls&sni=workerv6.erfanchoopani123.workers.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=workerv6.erfanchoopani123.workers.dev&encryption=none#workerv6.erfanchoopani123.workers.dev
